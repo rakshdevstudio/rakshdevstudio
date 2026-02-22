@@ -11,16 +11,6 @@
 📈 Actively seeking Software Developer / Full Stack Developer opportunities.
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" />
-</p>
 
 ## 🛠 Tech Stack
 
@@ -50,56 +40,48 @@
 </p>
 
 ---
-## 🤖 AI-Assisted Development Workflow
+## 🧠 AI-Native Development Metrics
 
-<p>
-<img src="https://skillicons.dev/icons?i=github" />
-</p>
+### ⚡ Vibe Coding Efficiency
+- 🚀 Rapid Prototyping Speed: 8.5/10
+- 🧩 Architecture Planning with AI: 9/10
+- 🐞 AI-Assisted Debugging Efficiency: 9/10
+- 🔁 Refactoring & Optimization: 8.5/10
+- 📦 End-to-End Delivery Speed: High
 
-### AI Tools Used in Development
-- Claude (Anthropic)
-- ChatGPT (OpenAI)
-- GitHub Copilot
-- Cursor AI
-- Loveable.dev
-- Antigravity
-- Replit AI
-- Codeium
-- Perplexity AI
-
-### AI Usage:
-- Architecture planning
-- Debugging complex systems
-- Refactoring & performance optimization
-- Automated test case generation
-- Documentation automation
 ---
-## 🤖 AI Tools & Modern Development Workflow
 
-### 🧠 AI Coding & Vibe Coding Tools
-- Claude (Anthropic)
-- ChatGPT (OpenAI)
-- GitHub Copilot
-- Cursor AI
-- Loveable.dev
-- Antigravity
-- Replit AI
-- Codeium
+### 🤖 AI Tool Usage Level
 
-### 🧪 Testing & Performance Tools
-- Postman (API Testing)
-- Chrome DevTools
-- Lighthouse
-- Jest (Basics)
-- npm audit
-- Snyk (Basics)
+| Tool | Usage Level | Purpose |
+|------|-------------|----------|
+| Claude | ⭐⭐⭐⭐⭐ | Architecture, deep debugging |
+| ChatGPT | ⭐⭐⭐⭐⭐ | System design, optimization |
+| GitHub Copilot | ⭐⭐⭐⭐ | Inline coding |
+| Cursor AI | ⭐⭐⭐⭐ | Refactoring |
+| Loveable | ⭐⭐⭐⭐ | Rapid UI generation |
+| Antigravity | ⭐⭐⭐ | Workflow automation |
 
-### 📊 Productivity & Project Tools
-- VS Code
-- Notion
-- Figma
-- Trello
-- Jira (Basics)
+---
+
+### 🏗 Architecture Strength
+
+- Modular folder structures
+- Clean separation (Frontend / Backend / Database)
+- REST API design
+- Environment-based configuration
+- Deployment-ready builds
+- Production debugging experience
+
+## 📊 Engineering Strength Matrix
+
+AI-Assisted Development      █████████░ 90%  
+System Architecture          █████████░ 90%  
+Full Stack Development       █████████░ 88%  
+Database Design              ████████░░ 80%  
+Performance Optimization     █████████░ 85%  
+Debugging Complex Systems    ██████████ 92%  
+Deployment & DevOps          ████████░░ 78%  
 
 ---
 
