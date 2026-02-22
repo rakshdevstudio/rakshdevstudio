@@ -40,7 +40,30 @@
 </p>
 
 ---
+## 🤖 AI-Assisted Development Workflow
 
+<p>
+<img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+### AI Tools Used in Development
+- Claude (Anthropic)
+- ChatGPT (OpenAI)
+- GitHub Copilot
+- Cursor AI
+- Loveable.dev
+- Antigravity
+- Replit AI
+- Codeium
+- Perplexity AI
+
+### AI Usage:
+- Architecture planning
+- Debugging complex systems
+- Refactoring & performance optimization
+- Automated test case generation
+- Documentation automation
+---
 ## 🤖 AI Tools & Modern Development Workflow
 
 ### 🧠 AI Coding & Vibe Coding Tools
