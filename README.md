@@ -15,41 +15,29 @@
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-- Java
-- JavaScript (ES6+)
-- Python
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,sql" />
+</p>
 
-### 🌐 Frontend Development
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- React.js
-- Next.js
-- Responsive UI Design
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
+</p>
 
-### ⚙ Backend Development
-- Node.js
-- Express.js
-- REST API Development
-- Authentication (JWT)
-- MVC Architecture
+### ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
+</p>
 
 ### 🗄 Databases
-- MySQL
-- MongoDB
-- PostgreSQL
-- Firebase
-- Redis (Basics)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+</p>
 
 ### ☁ DevOps & Deployment
-- Git & GitHub
-- GitHub Actions
-- Vercel
-- Netlify
-- Render
-- Docker (Basics)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,aws" />
+</p>
 
 ---
 
